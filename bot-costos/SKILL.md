@@ -2,10 +2,10 @@
 name: bot-costos
 description: >
   Etapa 2 del sistema de bot de WhatsApp. Explica qué cuentas necesita el usuario y le muestra la
-  tabla de costos reales en pesos chilenos, incluyendo el cambio de Meta del 1 de octubre de 2026
-  donde cada respuesta del bot pasa a costar. Cierra cuando el usuario acepta los costos
-  explícitamente. Úsalo cuando el usuario escriba /bot-costos, o pregunte cuánto cuesta operar un
-  bot de WhatsApp.
+  tabla de costos reales en la moneda de su país, con la tarifa de WhatsApp que le corresponde e
+  incluyendo el cambio de Meta del 1 de octubre de 2026, donde cada respuesta del bot pasa a
+  costar. Cierra cuando el usuario acepta los costos explícitamente. Úsalo cuando el usuario
+  escriba /bot-costos, o pregunte cuánto cuesta operar un bot de WhatsApp.
 ---
 
 # Etapa 2 de 9 — Costos
