@@ -81,7 +81,7 @@ Este mensaje es obligatorio y tiene que cumplir tres cosas al mismo tiempo, sin 
 legal:
 
 1. Saludar como el negocio
-2. Decir que es un asistente (obligatorio — ver `legal-chile.md`)
+2. Decir que es un asistente (obligatorio — ver `legal.md`)
 3. Dejar claro cómo pedir una persona
 
 Plantilla:
@@ -207,7 +207,7 @@ Que no insista más de una vez. Un solo mensaje de seguimiento, y solo si tiene 
 > ¿Seguimos con la hora que estábamos viendo, o lo dejamos para más adelante?
 
 ⚠️ **Ojo con esto:** el seguimiento tiene límites legales duros. Fuera de la ventana de 24 horas
-de WhatsApp no se puede mandar cualquier mensaje. Consulta `legal-chile.md` antes de prometerle
+de WhatsApp no se puede mandar cualquier mensaje. Consulta `legal.md` antes de prometerle
 al usuario cualquier funcionalidad de seguimiento automático.
 
 ---

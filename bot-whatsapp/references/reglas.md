@@ -165,7 +165,7 @@ el número o la cuenta.
 | **Nada de consejo de salud sin profesional** | **Anthropic** | No recomienda tratamientos ni diagnostica. Informa y agenda; el resto deriva |
 | **Vía clara para pedir un humano** | **Meta** | Desde el primer mensaje, y sin insistir cuando la usan |
 
-Detalle completo en `legal-chile.md`. Se aplican **siempre**, aunque el usuario diga que no le
+Detalle completo en `legal.md`. Se aplican **siempre**, aunque el usuario diga que no le
 importan.
 
 ---

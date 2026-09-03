@@ -60,6 +60,31 @@ de globitos.
 
 ---
 
+# ⚠️ Antes de mostrar un solo número: la moneda y el país
+
+**Las cifras de este archivo están en pesos chilenos como ejemplo trabajado.** No las copies tal
+cual para un negocio de otro país.
+
+**Lo que tienes que hacer:**
+
+1. **Busca la tarifa de su país** en el anexo local (`legal-chile.md` para Chile) o en el rate
+   card oficial de Meta. **Varían más de 12 veces** entre países: el marketing va de USD 0,0125 en
+   Colombia a USD 0,1597 en Países Bajos.
+2. **Convierte a su moneda** y muéstrale solo esa. Nunca le hables en dólares a alguien que piensa
+   en pesos, soles o euros.
+3. **Ajusta al volumen real** que dio en la pregunta 4b, no a los 500 del ejemplo.
+
+**Los costos que NO cambian por país:** el modelo (USD 1 por millón de tokens de entrada con Haiku
+4.5) y el alojamiento (USD 20/mes el plan de pago). Esos se convierten y ya.
+
+**El costo que sí cambia, y es el dominante:** los mensajes de WhatsApp.
+
+⚠️ **Si no encuentras la tarifa de su país, dilo.** Es preferible decir *"déjame confirmar el
+precio exacto de los mensajes en tu país antes de darte un número"* que inventar una cifra que
+después no se cumple.
+
+---
+
 # PARTE A — Lo que le explicas al usuario
 
 ## Las cuentas que va a necesitar

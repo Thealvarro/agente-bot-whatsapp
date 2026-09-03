@@ -74,13 +74,13 @@ meses el cliente diga "pero yo pensé que también hacía X", la ficha responde 
 
 ### 5. Los avisos legales instalados
 
-Ver `legal-chile.md`. El aviso de privacidad y la mención de que es un asistente tienen que estar
+Ver `legal.md`. El aviso de privacidad y la mención de que es un asistente tienen que estar
 puestos, no entregados como archivo para que el cliente los ponga después.
 
 ### 6. El contrato de encargo, firmado
 
 🔴 **Sin esto no se entrega.** Define quién responde por los datos de los clientes finales. Ver
-`legal-chile.md` sección 3.4 para el contenido mínimo, y hazlo revisar por un abogado.
+`legal.md` sección 3.4 para el contenido mínimo, y hazlo revisar por un abogado.
 
 No es un trámite: es el documento que decide si un problema de datos lo paga el negocio o lo pagas
 tú.
@@ -218,10 +218,10 @@ solo buena onda comercial — te saca de encima la responsabilidad de custodiar 
 tuyos.
 
 🔴 **No entregues un bot sin contrato de encargo firmado.** Lo debe redactar o revisar un abogado.
-El contenido mínimo está en `legal-chile.md`, sección 3.4.
+El contenido mínimo está en `legal.md`, sección 3.4.
 
 ⚠️ **Si el negocio maneja datos de salud** (estética, dental, consulta), esto sube de categoría:
-tratarlos sin autorización es la infracción más grave de la ley. Ver `legal-chile.md`, sección
+tratarlos sin autorización es la infracción más grave de la ley. Ver `legal.md`, sección
 3.3.
 
 ---

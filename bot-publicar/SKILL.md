@@ -19,7 +19,7 @@ Encender no es apretar un botón y salir corriendo. Es encender y quedarse miran
 1. Carga `~/.claude/skills/bot-whatsapp/references/reglas.md`.
 2. Lee `ESTADO.md`. **La revisión tiene que estar pasada.**
 3. Carga `~/.claude/skills/bot-whatsapp/references/produccion.md`.
-4. Carga los textos obligatorios de `~/.claude/skills/bot-whatsapp/references/legal-chile.md`,
+4. Carga los textos obligatorios de `~/.claude/skills/bot-whatsapp/references/legal.md`,
    sección 4.
 
 ---

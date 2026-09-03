@@ -21,7 +21,9 @@ rompe a propósito — todo sin haber tocado WhatsApp.
 1. Carga `~/.claude/skills/bot-whatsapp/references/reglas.md`.
 2. Lee `ESTADO.md`. **Necesitas la Ficha del Bot y el guion aprobados.** Si no están, mándalo de
    vuelta a `/bot-planificar` — no construyas a ciegas.
-3. Carga `~/.claude/skills/bot-whatsapp/references/demo.md`.
+3. Carga `~/.claude/skills/bot-whatsapp/references/construccion.md` — la guía técnica: stack,
+   integración con Zernio, estructura del proyecto y las trampas de su API.
+4. Carga `~/.claude/skills/bot-whatsapp/references/demo.md`.
 
 ---
 

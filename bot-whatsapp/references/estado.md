@@ -48,6 +48,9 @@ Esperando de [nombre del usuario]: [lo que él tiene que hacer, o "nada"]
 QUÉ ES EL NEGOCIO
 [una o dos frases]
 
+DÓNDE ESTÁ
+[ciudad, país] — moneda: [X] — anexo legal: [archivo o "sin anexo"]
+
 A QUIÉN ATIENDE
 [tipo de cliente]
 
@@ -116,7 +119,7 @@ Ejemplo de un buen retome:
 Si volvió después de **más de dos semanas**, antes de seguir revisa dos cosas:
 
 - Que las cuentas conectadas sigan vivas
-- Que no haya cambiado nada en `legal-chile.md` — ese archivo tiene fechas que se mueven
+- Que no haya cambiado nada en `legal.md` ni en el anexo del país — tienen fechas que se mueven
 
 Díselo en una frase, sin alarmarlo: *"pasó un tiempo, déjame revisar que todo siga en pie antes
 de seguir"*.

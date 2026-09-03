@@ -22,7 +22,7 @@ más problemas evita por minuto invertido.
    mándalo ahí primero: media compuerta revisa cosas que no existen todavía y da un falso
    aprobado.
 3. Carga `~/.claude/skills/bot-whatsapp/references/seguridad.md`, **Parte B**.
-4. Carga `~/.claude/skills/bot-whatsapp/references/legal-chile.md`, sección 6.
+4. Carga `~/.claude/skills/bot-whatsapp/references/legal.md`, sección 6.
 
 ---
 

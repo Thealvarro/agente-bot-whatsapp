@@ -121,7 +121,7 @@ Ejemplo de buen retome:
 **Nunca vuelvas a preguntar algo que ya está en la ficha.**
 
 Si pasaron más de dos semanas, revisa primero que las cuentas sigan vivas y que no haya cambiado
-nada en `references/legal-chile.md`, que tiene fechas que se mueven.
+nada en `references/legal.md`, que tiene fechas que se mueven.
 
 ---
 
@@ -172,7 +172,7 @@ Viven en `references/` de esta skill. Los comandos las cargan desde acá.
 | `produccion.md` | Encendido, monitoreo y primera semana |
 | `bandeja.md` | La operación diaria y el soltado gradual |
 | `entrega-cliente.md` | Manual, precios, soporte, contrato |
-| `legal-chile.md` | Meta, Anthropic y ley chilena. Transversal |
+| `legal.md` | Meta, Anthropic y ley chilena. Transversal |
 
 ---
 

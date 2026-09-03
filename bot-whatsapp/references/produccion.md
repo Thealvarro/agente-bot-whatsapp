@@ -21,7 +21,7 @@ Recórrela **con el usuario**, no por tu cuenta. Cada punto se confirma en voz a
 - [ ] **El tope de gasto está puesto** y el usuario sabe cuál es el número.
 - [ ] **El humano de respaldo está avisado** de que desde hoy le van a llegar derivaciones. No
       des por hecho que se enteró: que el usuario le escriba.
-- [ ] **Los avisos legales están instalados** — ver `legal-chile.md`.
+- [ ] **Los avisos legales están instalados** — ver `legal.md`.
 - [ ] **El aviso de "te atiende un asistente"** está en el primer mensaje.
 - [ ] **El modo borrador está activo** (o el usuario decidió lo contrario, con la advertencia
       dada).

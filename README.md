@@ -116,7 +116,8 @@ bot-whatsapp/                     Punto de entrada + todas las referencias
     produccion.md                 El encendido y la revisión del día 7
     bandeja.md                    Operación diaria y soltado con métricas
     entrega-cliente.md            Manual, precios, soporte, contrato
-    legal-chile.md                Meta, Anthropic y ley chilena
+    legal.md                      Meta, Anthropic y datos personales (universal)
+    legal-chile.md                Anexo de Chile (solo si el negocio es chileno)
 
 bot-planificar/    bot-costos/     bot-probar/     bot-conectar/
 bot-revisar/       bot-publicar/   bot-bandeja/    bot-soltar/     bot-entregar/

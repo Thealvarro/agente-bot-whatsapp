@@ -39,12 +39,24 @@ Encuadra la fase en dos frases:
 
 ### 1. ¿Qué es el negocio?
 
-*"Cuéntame qué hace tu negocio, en tus palabras."*
+*"Cuéntame qué hace tu negocio y en qué ciudad está, en tus palabras."*
 
-**Qué buscas:** rubro, tamaño, si es de él o de un cliente suyo.
+**Qué buscas:** rubro, tamaño, **país**, y si es de él o de un cliente suyo.
 
-**Ojo:** si el bot es para un cliente de él, anótalo — cambia `/bot-entregar` completa y cambia quién
-responde legalmente por los datos.
+⚠️ **El país no es un dato de relleno.** Determina tres cosas del proyecto entero:
+
+1. **Qué anexo legal se carga** — ver `legal.md` sección 8. Si no hay anexo para su país, se
+   trabaja con los principios universales y se le dice con honestidad qué debe revisar un abogado
+   local.
+2. **Cuánto cuesta cada mensaje.** Las tarifas de WhatsApp varían más de 12 veces entre países.
+3. **En qué moneda le hablas de plata.** Nunca le muestres costos en dólares a alguien que piensa
+   en su moneda: conviértelos tú.
+
+Si lo dice al pasar ("tengo una peluquería en Maipú"), ya lo tienes. Si no queda claro,
+pregúntalo — pero en el mismo turno, no gastes uno entero en eso.
+
+**Ojo:** si el bot es para un cliente de él, anótalo — cambia `/bot-entregar` completa y cambia
+quién responde legalmente por los datos.
 
 ---
 
@@ -321,7 +333,7 @@ Explícale en lenguaje simple, sin asustarlo:
 **Registra en la ficha:** si maneja datos de salud, y qué se hace con las fotos.
 
 **Si la respuesta es sí, esto se activa después:**
-- El texto de consentimiento de `legal-chile.md` (sección 4, texto B)
+- El texto de consentimiento de `legal.md` (sección 4, texto B)
 - La prohibición de consejo de salud en el guion de `/bot-planificar`
 - El registro de consentimiento por separado en `/bot-probar`
 - La conversación sobre contrato de encargo en `/bot-entregar`
@@ -337,6 +349,9 @@ FICHA DEL ASISTENTE — [Nombre del negocio]
 
 QUÉ ES EL NEGOCIO
 [una o dos frases]
+
+DÓNDE ESTÁ
+[ciudad, país] — moneda: [X] — anexo legal: [archivo o "sin anexo"]
 
 A QUIÉN ATIENDE
 [tipo de cliente]

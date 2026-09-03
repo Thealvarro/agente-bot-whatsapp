@@ -109,7 +109,7 @@ Eso significa:
 - Las plantillas aprobadas, el nombre visible, la calificación de calidad y el nivel de
   mensajería **viven en la cuenta del negocio y se los lleva** si cambia de proveedor
 - **El lock-in es casi nulo**
-- Legalmente, el negocio es el dueño de sus datos — que es lo correcto (ver `legal-chile.md`)
+- Legalmente, el negocio es el dueño de sus datos — que es lo correcto (ver `legal.md`)
 
 ---
 
