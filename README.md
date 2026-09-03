@@ -130,6 +130,24 @@ en un solo lugar: no hay contenido duplicado entre comandos.
 
 ---
 
+## Verificar que no se rompió nada
+
+```bash
+python verificar.py
+```
+
+Diez chequeos estructurales: que las referencias apunten a archivos que existen,
+que la cadena de etapas esté completa, que todos los comandos carguen las reglas, y
+—el que más rinde— **que los números declarados coincidan con los reales**.
+
+Ese último existe porque el sistema declara sus propias cifras en varios lugares: si
+agregas un control de seguridad, el blindaje pasa de 53 a 54 y hay seis archivos que
+lo dicen. A mano no se ve, y el resultado es un reporte que le miente al usuario.
+
+Sale con código 1 si algo falla. Córrelo después de tocar cualquier cosa.
+
+---
+
 ## El estado
 
 Un archivo `ESTADO.md` en la carpeta del proyecto guarda la Ficha del Bot, en qué etapa va, qué se
