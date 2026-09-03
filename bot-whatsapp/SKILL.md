@@ -172,7 +172,10 @@ Viven en `references/` de esta skill. Los comandos las cargan desde acá.
 | `produccion.md` | Encendido, monitoreo y primera semana |
 | `bandeja.md` | La operación diaria y el soltado gradual |
 | `entrega-cliente.md` | Manual, precios, soporte, contrato |
-| `legal.md` | Meta, Anthropic y ley chilena. Transversal |
+| `legal.md` | Meta, Anthropic y datos personales. Transversal, aplica en todos los países |
+| `legal-chile.md` | Anexo local. Se carga solo si el negocio está en Chile |
+| `construccion.md` | Guía técnica: arquitectura, Zernio y las trampas de su API |
+| `verificacion.md` | La auditoría ejecutable y los 3 tests innegociables |
 
 ---
 
