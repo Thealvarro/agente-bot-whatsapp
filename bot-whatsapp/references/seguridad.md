@@ -289,7 +289,8 @@ a pruebas. No hay ítems opcionales.
       para bloquear el tratamiento cuando alguien lo pide. Sin este campo en la base de datos, no
       se puede cumplir. Se prevé ahora, no después.
 - [ ] **Registro de baja de marketing con fecha**, y respetado de forma permanente. Obligación
-      vigente **hoy** por el art. 28 B del SERNAC — hasta 300 UTM por consumidor.
+      exigido por la ley del consumidor en casi todos los países, con multas que suelen
+      calcularse **por persona afectada**.
 - [ ] **Enmascarado de datos personales antes de armar el prompt.** RUT, teléfonos, direcciones y
       correos se sustituyen por marcadores antes de salir hacia el modelo. Es la mitigación más
       barata y efectiva de todas: reduce el problema en origen.
@@ -326,7 +327,7 @@ botones de calificación. Acá va lo que no se resuelve en el prompt:
       cuando la usan. Exigencia de Meta.
 - [ ] **Aviso de privacidad accesible y mencionado** en el primer mensaje.
 - [ ] **Línea de baja en toda plantilla de marketing**, y la baja se respeta de forma permanente.
-      Obligación vigente **hoy** por el art. 28 B del SERNAC.
+      Obligación de la ley del consumidor en casi todos los países. Ver el anexo local.
 - [ ] 🚨 **Método de pago registrado en la cuenta de WhatsApp Business.** Sin esto, desde el
       1-oct-2026 el bot deja de entregar respuestas. Se verifica en `/bot-conectar` y de nuevo antes de
       encender.

@@ -27,7 +27,7 @@ Obvias: `endpoint` · `webhook` · `API` · `deploy` · `repositorio` · `variab
 | **derivar** | Lenguaje de call center | "te lo paso a ti" / "te aviso al tiro" |
 | **Anthropic** | No sabe qué es | "la empresa que hace la inteligencia del asistente" — preséntala la primera vez |
 | **dato sensible** | Término legal | "información delicada, como temas de salud" |
-| **UTM** | Nadie sabe cuánto es | Convierte a pesos y di la cifra |
+| Unidades fiscales locales (UTM, UF, UMA…) | Nadie sabe cuánto es | Convierte a la moneda del país y di la cifra |
 | **métrica / KPI** | Idioma de consultor | "cómo vas a saber si sirvió" |
 
 ### Traducciones de situaciones
