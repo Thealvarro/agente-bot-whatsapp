@@ -49,7 +49,7 @@ problema en 5 minutos o al final sin saber cuál de seis piezas lo causó.
 Junto con el bot **generas el script de auditoría y los 3 tests innegociables**. Carga
 `~/.claude/skills/bot-whatsapp/references/verificacion.md`.
 
-**No es un extra ni algo para después.** Es lo que convierte los 51 controles de una lista que tú
+**No es un extra ni algo para después.** Es lo que convierte los 53 controles de una lista que tú
 marcas en verificaciones que corren. Sin esto, `/bot-revisar` es una compuerta decorativa.
 
 Los tests van saliendo con cada pieza: cuando termines la memoria, escribes el test de que dos
@@ -57,7 +57,7 @@ conversaciones no se cruzan; cuando termines los controles, el de que el tope de
 
 ### Obligatorio en esta parte
 
-- **Todo el blindaje de `seguridad.md`, Parte B.** Los 51 ítems. No es opcional ni "lo dejamos
+- **Todo el blindaje de `seguridad.md`, Parte B.** Los 53 ítems. No es opcional ni "lo dejamos
   para cuando conectemos".
 - ⚠️ **Las dos decisiones irreversibles:** región de la base de datos en São Paulo (no EEUU) y
   aislamiento multi-cliente. Se deciden al crear, no después.

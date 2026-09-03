@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-skills-ee6c4d?style=flat-square" alt="Claude Code skills">
   <img src="https://img.shields.io/badge/comandos-10-3d5a80?style=flat-square" alt="10 comandos">
-  <img src="https://img.shields.io/badge/controles_de_seguridad-51-25d366?style=flat-square" alt="51 controles de seguridad">
-  <img src="https://img.shields.io/badge/español-Chile-3d5a80?style=flat-square" alt="Español de Chile">
+  <img src="https://img.shields.io/badge/controles_de_seguridad-53-25d366?style=flat-square" alt="53 controles de seguridad">
+  <img src="https://img.shields.io/badge/idioma-español-3d5a80?style=flat-square" alt="En español">
 </p>
 
 # Bot de WhatsApp — Sistema de comandos
@@ -90,7 +90,7 @@ Después se invoca con `/bot-whatsapp` — ese comando orienta y despacha al res
 | `/bot-costos` | Qué cuentas necesita y cuánto cuesta de verdad |
 | `/bot-probar` | Construye el asistente y lo prueba **en demo** |
 | `/bot-conectar` | Conecta el número real. El paso más frágil |
-| `/bot-revisar` | La compuerta de seguridad: 51 ítems |
+| `/bot-revisar` | La compuerta de seguridad: 53 ítems |
 | `/bot-publicar` | Enciende con clientes reales, en modo borrador |
 | `/bot-bandeja` | Operación diaria: aprobar respuestas |
 | `/bot-soltar` | Pasarlo a automático, por partes y con métricas |
@@ -106,7 +106,7 @@ bot-whatsapp/                     Punto de entrada + todas las referencias
   references/
     reglas.md                     Las 9 reglas de oro (todos los comandos la cargan)
     estado.md                     Cómo se lleva ESTADO.md y se retoma
-    seguridad.md                  Brief de riesgos + 51 ítems de blindaje
+    seguridad.md                  Brief de riesgos + 53 ítems de blindaje
     descubrimiento.md             Las 13 preguntas → Ficha del Bot
     conversacion.md               Tono, guion, escalamiento, ejemplos
     herramientas-costos.md        Stack y la tabla de costos real

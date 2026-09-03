@@ -47,6 +47,21 @@ modo borrador activo · número definitivo · ficha al día.
 ⚠️ Si quiere saltárselo, adviértele **una vez** con un ejemplo concreto: *"la primera respuesta
 rara la va a ver un cliente, no tú"*. Si insiste, es su decisión: va a RIESGOS ACEPTADOS.
 
+**Muéstrale dónde ve los borradores** — la pantalla, en su teléfono. Que la guarde como favorito
+ahí mismo, contigo mirando.
+
+### 1b. Cómo quiere enterarse *(y cuánto cuesta cada opción)*
+
+Los avisos se cobran como cualquier mensaje, así que **esto lo elige él con el precio a la vista**.
+Las opciones y los volúmenes están en `bandeja.md`; conviértelos a su moneda antes de mostrarlos.
+
+⚠️ **Y dile el riesgo al elegir:** en modo borrador el cliente no recibe respuesta hasta que él
+aprueba. Si elige no recibir avisos y no mira la pantalla en tres horas, ese cliente esperó tres
+horas — peor que no tener asistente.
+
+Por eso se define acá el **plazo máximo de borrador**: pasado ese rato sin aprobación, el
+asistente le avisa al cliente que una persona le responde, en vez de dejarlo colgado.
+
 ### 2. El tope de gasto
 
 Pregunta directa: *"¿Cuánto es lo máximo que estás dispuesto a gastar en un día, en el peor

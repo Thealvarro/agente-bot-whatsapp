@@ -14,6 +14,53 @@ respuesta y espera aprobación.
 
 La bandeja es donde el dueño ve esos borradores y decide.
 
+---
+
+## Dónde vive
+
+**Una pantalla que el dueño abre desde su teléfono.** Un link que guarda como favorito, igual que
+cualquier página. Sin app que instalar y sin contraseña que recordar.
+
+🚫 **No es un comando de Claude Code.** El dueño de una peluquería no va a abrir una herramienta
+de programador todos los días para aprobar respuestas — y los primeros días son justamente los
+críticos. Si la bandeja vive donde él no entra, el modo borrador se abandona y el asistente se
+suelta sin estar listo.
+
+🚫 **Y el asistente tampoco le manda cada borrador por WhatsApp.** Desde octubre de 2026 **cada
+mensaje que sale se paga**, así que avisarle uno por uno puede costar más que atender a los
+clientes.
+
+---
+
+## Cómo se entera de que hay borradores
+
+**Es una elección suya, con el precio a la vista** — igual que todo lo demás en el sistema.
+Preséntale las opciones al encender, en `/bot-publicar`:
+
+| Cómo quiere enterarse | Costo mensual aproximado |
+|---|---|
+| No me avises, yo reviso la pantalla | **$0** |
+| Un resumen al día | 30 avisos |
+| Agrupado cada 30 minutos | ~60 avisos |
+| Por Telegram, cada vez | **$0** — si lo usa |
+| Por WhatsApp, cada vez | ~300 avisos |
+
+*Los avisos se cobran como cualquier mensaje. Convierte a su moneda con la tarifa de su país y
+muéstrale pesos, no cantidades.*
+
+**Recomienda el resumen diario o el agrupado.** El "cada vez" casi nunca vale lo que cuesta.
+
+⚠️ **El riesgo que hay que decirle al elegir:** en modo borrador el cliente **no recibe respuesta
+hasta que él aprueba**. Si elige "no me avises" y no mira la pantalla en tres horas, ese cliente
+esperó tres horas — peor que no tener asistente.
+
+**Por eso el sistema necesita un plazo máximo de borrador.** Si un borrador lleva demasiado sin
+aprobarse, el asistente le avisa al cliente que una persona le responde en vez de dejarlo colgado.
+Ese plazo se define acá, con él, y por defecto es corto.
+
+⚠️ **Y hay que identificar al dueño por su número.** Si no, el asistente lo trata como cliente y
+le empieza a ofrecer hora para cortarse el pelo en su propia peluquería.
+
 ## Las 4 decisiones por borrador
 
 Por cada respuesta pendiente, se le muestra la conversación y la respuesta propuesta, y elige:

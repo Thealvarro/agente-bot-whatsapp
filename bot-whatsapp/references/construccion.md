@@ -288,7 +288,7 @@ a ciegas.
 
 # 8. Antes de dar la construcción por terminada
 
-- [ ] Los **51 ítems** de `seguridad.md` Parte B, verificados contra el sistema real
+- [ ] Los **53 ítems** de `seguridad.md` Parte B, verificados contra el sistema real
 - [ ] Base de datos en **São Paulo** — irreversible, se decide al crear
 - [ ] Aislamiento por cliente con seguridad a nivel de fila, si atiende a más de un negocio
 - [ ] `.env` fuera del control de versiones **antes** del primer guardado

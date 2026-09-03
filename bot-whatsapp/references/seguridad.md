@@ -304,6 +304,10 @@ a pruebas. No hay ítems opcionales.
 ## B6 · Control humano
 
 - [ ] **Modo borrador disponible y activo por defecto** en el arranque.
+- [ ] **Plazo máximo de borrador.** Si una respuesta lleva demasiado sin aprobarse, el asistente
+      le avisa al cliente que una persona le responde. **Sin esto, el modo borrador deja clientes
+      esperando en silencio** — que es peor que no tener asistente.
+- [ ] **El dueño identificado por su número**, para que el asistente no lo trate como cliente.
 - [ ] **Interruptor de apagado** que el dueño puede accionar solo, sin ayuda técnica, y que surte
       efecto de inmediato.
 - [ ] **Escalamiento automático** por: enojo detectado, palabras clave definidas por el negocio,

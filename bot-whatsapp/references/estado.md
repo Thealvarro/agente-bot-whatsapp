@@ -28,7 +28,7 @@ plan. Un estado desactualizado es peor que no tenerlo.
 
 ## DÓNDE VAMOS
 Etapa actual: [nombre]
-Siguiente comando: /bot-xxxx
+Siguiente comando: /bot-[el que corresponda]
 Última sesión: [fecha]
 Esperando de [nombre del usuario]: [lo que él tiene que hacer, o "nada"]
 

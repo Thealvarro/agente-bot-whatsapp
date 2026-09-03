@@ -8,7 +8,7 @@ Se usa en `/bot-probar` (para generar) y en `/bot-revisar` (para correr).
 
 ## El problema que resuelve
 
-El sistema tiene 51 controles de seguridad bien pensados. Y hasta acá, **cero garantía de que se
+El sistema tiene 53 controles de seguridad bien pensados. Y hasta acá, **cero garantía de que se
 cumplan**: `/bot-revisar` depende de que tú los recorras y seas honesto contigo mismo. Puedes
 marcar *"✓ tope de gasto configurado"* porque **recuerdas** haberlo hecho, o porque el código
 *parece* hacerlo.

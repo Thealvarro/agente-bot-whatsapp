@@ -2,7 +2,7 @@
 name: bot-revisar
 description: >
   Etapa 5 del sistema de bot de WhatsApp. La compuerta de seguridad antes de encender: recorre los
-  51 ítems de blindaje contra el sistema real y entrega un veredicto en lenguaje humano. Verifica
+  53 ítems de blindaje contra el sistema real y entrega un veredicto en lenguaje humano. Verifica
   entrada, control del modelo, abuso y costo, secretos, datos personales, control humano y
   cumplimiento legal. Úsalo cuando el usuario escriba /bot-revisar, o antes de poner un bot de
   WhatsApp en producción.
@@ -112,7 +112,7 @@ Si alguno de estos falla, **no se enciende**, sin discusión y sin importar cuá
 
 ## El gate de la etapa
 
-- [ ] Los 51 ítems verificados contra el sistema real
+- [ ] Los 53 ítems verificados contra el sistema real
 - [ ] Los 3 críticos, en verde
 - [ ] El usuario vio el reporte de los 7 bloques
 

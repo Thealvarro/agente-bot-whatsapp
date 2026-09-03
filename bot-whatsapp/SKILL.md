@@ -162,7 +162,7 @@ Viven en `references/` de esta skill. Los comandos las cargan desde acá.
 |---|---|
 | `reglas.md` | Las 9 reglas de oro. **Todos los comandos la cargan primero** |
 | `estado.md` | Cómo se lleva y actualiza `ESTADO.md` |
-| `seguridad.md` | Brief de riesgos + los 51 ítems de blindaje |
+| `seguridad.md` | Brief de riesgos + los 53 ítems de blindaje |
 | `descubrimiento.md` | Las 13 preguntas → Ficha del Bot |
 | `conversacion.md` | Tono, guion, escalamiento, conversaciones de ejemplo |
 | `herramientas-costos.md` | Stack, costos reales y dónde deja de ser gratis |
