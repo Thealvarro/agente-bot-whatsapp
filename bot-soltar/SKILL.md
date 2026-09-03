@@ -97,6 +97,19 @@ En una frase, sin ceremonia:
 
 ---
 
+## Si algo no aparece
+
+| Debería ver | Si no pasa |
+|---|---|
+| Las 5 métricas con sus números reales | Si no hay datos suficientes, no se suelta. Se espera, y se lo dices sin rodeos |
+| El asistente respondiendo solo, en horario | Si empieza a fallar, vuelve a borrador. Retroceder no es un fracaso, es el sistema funcionando |
+| Que quiere soltarlo todo de una | Se suelta por partes y en orden. De noche nadie está mirando |
+
+Si pasa algo que no está en esta tabla, **no le pases el problema al usuario**: arréglalo y
+cuéntale solo lo que necesita saber.
+
+---
+
 ## Al cerrar
 
 1. Actualiza `ESTADO.md`: qué paso se soltó, con fecha, y cuándo se puede evaluar el siguiente.

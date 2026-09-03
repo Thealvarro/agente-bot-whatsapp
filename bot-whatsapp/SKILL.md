@@ -201,3 +201,15 @@ qué cambió. No lo minimices ni lo dramatices.
 **El usuario quiere avanzar sin cerrar un gate.**
 Dile qué falta y por qué importa, en una frase. Si insiste, anótalo en RIESGOS ACEPTADOS del
 estado y sigue. No pelees dos veces.
+
+---
+
+## Si algo no aparece
+
+| Debería ver | Si no pasa |
+|---|---|
+| El mapa de etapas y hacia dónde va | Si no reconoces el comando, el sistema no está instalado. Se copian las carpetas a las skills |
+| Que retomas donde quedó, sin repetir | Si el estado no aparece, quedó en otra carpeta. Pregúntale desde dónde trabajó la vez pasada |
+
+Si pasa algo que no está en esta tabla, **no le pases el problema al usuario**: arréglalo y
+cuéntale solo lo que necesita saber.

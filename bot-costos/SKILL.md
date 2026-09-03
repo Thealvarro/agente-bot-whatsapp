@@ -70,6 +70,19 @@ a poder pagar.
 
 ---
 
+## Si algo no aparece
+
+| Debería ver | Si no pasa |
+|---|---|
+| La tabla en **su** moneda, con su volumen real | Si le mostraste el ejemplo de 500 conversaciones a alguien con 5 al día, se asustó de gratis. Rehazla |
+| Que acepta el costo explícitamente | Si duda, revisa alternativas antes de seguir. No lo metas a construir algo que no va a pagar en el mes 2 |
+| No encuentras la tarifa de su país | Dilo: *"déjame confirmar el precio exacto en tu país"*. Nunca inventes la cifra |
+
+Si pasa algo que no está en esta tabla, **no le pases el problema al usuario**: arréglalo y
+cuéntale solo lo que necesita saber.
+
+---
+
 ## Al cerrar
 
 1. Actualiza `ESTADO.md`: costos aceptados, con la cifra y la fecha, en DECISIONES TOMADAS.

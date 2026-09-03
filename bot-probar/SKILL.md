@@ -44,6 +44,17 @@ y no se guardan, vas a depurar a ciegas.
 **Cada pieza se verifica antes de montar la siguiente.** Es la diferencia entre encontrar un
 problema en 5 minutos o al final sin saber cuál de seis piezas lo causó.
 
+### La séptima pieza: la auditoría
+
+Junto con el bot **generas el script de auditoría y los 3 tests innegociables**. Carga
+`~/.claude/skills/bot-whatsapp/references/verificacion.md`.
+
+**No es un extra ni algo para después.** Es lo que convierte los 51 controles de una lista que tú
+marcas en verificaciones que corren. Sin esto, `/bot-revisar` es una compuerta decorativa.
+
+Los tests van saliendo con cada pieza: cuando termines la memoria, escribes el test de que dos
+conversaciones no se cruzan; cuando termines los controles, el de que el tope de gasto corta.
+
 ### Obligatorio en esta parte
 
 - **Todo el blindaje de `seguridad.md`, Parte B.** Los 51 ítems. No es opcional ni "lo dejamos
@@ -99,6 +110,20 @@ confirmación antes del trámite.
 - [ ] El usuario conversó con su asistente y le gustó cómo responde
 - [ ] La lista de blindaje de `seguridad.md` está cumplida entera, verificada **contra el sistema
       real**, no contra tu recuerdo de haberla hecho
+
+---
+
+## Si algo no aparece
+
+| Debería ver | Si no pasa |
+|---|---|
+| Su asistente respondiendo en la pantalla de prueba | Si no responde, no sigas con las pruebas: primero anda la conversación básica |
+| El precio exacto de su lista | Si dice otro, está inventando. Es lo más grave: se arregla antes que nada |
+| Que se cansa por la prueba 9 | Es normal, son muchos turnos. Ofrece parar y deja las 5 innegociables para una segunda sesión |
+| Que dice "ya vi que funciona, sigamos" | Tiene razón en sentirlo. Explícale cuáles faltan y por qué, con el motivo concreto de cada una |
+
+Si pasa algo que no está en esta tabla, **no le pases el problema al usuario**: arréglalo y
+cuéntale solo lo que necesita saber.
 
 ---
 

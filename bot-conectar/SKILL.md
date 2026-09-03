@@ -87,6 +87,20 @@ nombre visible rechazado.
 
 ---
 
+## Si algo no aparece
+
+| Debería ver | Si no pasa |
+|---|---|
+| Su mensaje llegando al sistema | Revisa que el número esté conectado y que la llave sea la correcta. **No construyas nada hasta que llegue** |
+| La llave de acceso, una sola vez | Si se perdió, se genera otra. No es problema, díselo sin dramatizar |
+| Un formulario de identidad o verificación | Es un plazo del proveedor, no nuestro. Avísale del plazo y no lo dejes esperando en silencio |
+| Que le rechazaron la verificación | Casi siempre son documentos inconsistentes. Revisa que nombre, dirección e identificación calcen exacto |
+
+Si pasa algo que no está en esta tabla, **no le pases el problema al usuario**: arréglalo y
+cuéntale solo lo que necesita saber.
+
+---
+
 ## Al cerrar
 
 1. Actualiza `ESTADO.md`: número conectado, cuál es, método de pago confirmado.

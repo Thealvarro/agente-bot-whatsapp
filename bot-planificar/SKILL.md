@@ -99,6 +99,20 @@ que va a saber tu asistente"*.
 
 ---
 
+## Si algo no aparece
+
+| Debería ver | Si no pasa |
+|---|---|
+| Las 7 protecciones, en un mensaje corto | Si te salió largo, lo estás haciendo mal: es la versión corta primero |
+| Su Ficha del Bot, para leer y aprobar | Si dice "sí sí" sin leerla, insiste una vez. Es lo único que su asistente va a saber |
+| 3 conversaciones de ejemplo | Si no las reconoce como su negocio, corrige y **vuelve a mostrárselas** |
+| Se traba en las preguntas frecuentes | Es el punto donde más gente abandona. Sácale dos de memoria y sigue |
+
+Si pasa algo que no está en esta tabla, **no le pases el problema al usuario**: arréglalo y
+cuéntale solo lo que necesita saber.
+
+---
+
 ## Al cerrar
 
 1. Actualiza `ESTADO.md`: etapa Planificar cerrada, Ficha del Bot completa, siguiente comando.

@@ -110,6 +110,8 @@ bot-whatsapp/                     Punto de entrada + todas las referencias
     descubrimiento.md             Las 13 preguntas → Ficha del Bot
     conversacion.md               Tono, guion, escalamiento, ejemplos
     herramientas-costos.md        Stack y la tabla de costos real
+    construccion.md               Guía técnica: arquitectura, Zernio, trampas de su API
+    verificacion.md               La auditoría ejecutable y los 3 tests innegociables
     demo.md                       El simulador y qué se puede probar sin WhatsApp
     conexion-whatsapp.md          Conectar el número, clic por clic
     pruebas.md                    Las 14 pruebas

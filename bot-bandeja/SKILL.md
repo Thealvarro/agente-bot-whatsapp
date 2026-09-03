@@ -75,6 +75,19 @@ Cuando las 5 métricas se cumplan (están en la referencia), díselo tú. No esp
 
 ---
 
+## Si algo no aparece
+
+| Debería ver | Si no pasa |
+|---|---|
+| Los borradores pendientes, con la conversación completa | Si no hay ninguno, puede ser bueno (nadie escribió) o malo (no están llegando). Verifica cuál |
+| Que corrige en vez de solo aprobar o rechazar | Corregir es lo más valioso: es él enseñándole a hablar. Si nunca corrige, pregúntale si de verdad están bien |
+| Que dejó de revisar hace días | Los clientes están esperando. Cámbiale cómo se entera, o suelta el asistente si ya está listo |
+
+Si pasa algo que no está en esta tabla, **no le pases el problema al usuario**: arréglalo y
+cuéntale solo lo que necesita saber.
+
+---
+
 ## Al cerrar cada sesión
 
 Actualiza `ESTADO.md` con: borradores revisados, correcciones, y las métricas al día. Sin ese

@@ -28,10 +28,29 @@ más problemas evita por minuto invertido.
 
 ## Cómo se corre
 
-**Recorres los 51 ítems tú, contra el sistema real.** No contra tu recuerdo de haberlos hecho.
+**Dos partes, y la primera no es opinable.**
 
-⚠️ **Regla dura:** si un ítem no se cumple, no está "casi listo": está **sin hacer**. Vuelve y
-hazlo antes de seguir.
+### Parte 1 — Corres la auditoría
+
+Ejecutas el script de auditoría que se generó en `/bot-probar` (12 chequeos) y los **3 tests
+innegociables**. Detalle en `verificacion.md`.
+
+Esto no se lee ni se interpreta: **se corre**. Si algo falla, lo arreglas y vuelves a correr
+**todo**, no solo lo que falló.
+
+⚠️ **Si el script no existe** porque `/bot-probar` se hizo sin él, genéralo ahora antes de seguir.
+Una compuerta sin verificación ejecutable es una compuerta decorativa.
+
+### Parte 2 — Revisas a mano lo que no se automatiza
+
+Los ítems que dependen de mirar: avisos legales publicados, contrato firmado, humano de respaldo
+avisado, calidad del guion.
+
+⚠️ **Regla dura:** si un ítem no se cumple, no está "casi listo": está **sin hacer**.
+
+🚫 **Y nunca reportes como verificado algo que solo miraste.** En el reporte van separados: lo que
+se probó corriendo y lo que se revisó a mano. Confundir "lo leí" con "lo probé" es exactamente el
+problema que esta etapa existe para evitar.
 
 Al usuario **no le muestras la checklist técnica.** Le muestras el resultado por bloques, en su
 idioma:
@@ -39,16 +58,22 @@ idioma:
 ```
 REVISIÓN DE SEGURIDAD — [negocio]
 
-La puerta de entrada        ✓  Solo entran mensajes de WhatsApp de verdad
-El comportamiento del bot   ✓  No se deja manipular, no inventa precios
-Protección de tu cuenta     ✓  Topes y frenos activos
-Tus llaves                  ✓  Guardadas donde corresponde
-Datos de tus clientes       ✓  Aislados y con borrado automático
-Tus controles               ✓  Apagado y bandeja funcionando
-Reglas de Meta y la ley     ✓  Avisos puestos, método de pago registrado
+PROBADO (se corrió de verdad)
+  La puerta de entrada        ✓  Solo entran mensajes de WhatsApp de verdad
+  El comportamiento del bot   ✓  No se deja manipular, no inventa precios
+  Protección de tu cuenta     ✓  El tope de gasto corta, no solo avisa
+  Tus llaves                  ✓  Guardadas donde corresponde
+  Datos de tus clientes       ✓  Un cliente no puede ver los de otro
+
+REVISADO A MANO
+  Avisos legales              ✓  Publicados y enlazados
+  Tu humano de respaldo       ✓  Avisado y recibiendo las derivaciones
 
 Tu asistente está listo para atender clientes reales.
 ```
+
+**La separación importa y es honesta:** lo de arriba se comprobó corriendo pruebas; lo de abajo lo
+revisó una persona. Si algún día algo falla, saber cuál era cuál ahorra medio día de búsqueda.
 
 Si algo falla, sé concreto sobre **qué** falta y **qué significa**, sin tecnicismos:
 
@@ -90,6 +115,19 @@ Si alguno de estos falla, **no se enciende**, sin discusión y sin importar cuá
 - [ ] Los 51 ítems verificados contra el sistema real
 - [ ] Los 3 críticos, en verde
 - [ ] El usuario vio el reporte de los 7 bloques
+
+---
+
+## Si algo no aparece
+
+| Debería ver | Si no pasa |
+|---|---|
+| El reporte separado: probado y revisado a mano | Si no corriste la auditoría, no hay reporte que mostrar. Córrela |
+| Todo en verde | Si algo falla, lo arreglas y corres **todo** de nuevo. No solo lo que falló |
+| El script no existe | Se hizo `/bot-probar` sin él. Genéralo ahora: sin auditoría esta etapa es decorativa |
+
+Si pasa algo que no está en esta tabla, **no le pases el problema al usuario**: arréglalo y
+cuéntale solo lo que necesita saber.
 
 ---
 

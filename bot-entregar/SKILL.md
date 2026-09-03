@@ -111,6 +111,19 @@ La checklist completa está en la referencia. Los que no se saltan:
 
 ---
 
+## Si algo no aparece
+
+| Debería ver | Si no pasa |
+|---|---|
+| El cliente apagando y prendiendo el asistente **solo** | Si no lo logra, repites la capacitación. No se entrega hasta que pueda |
+| Las cuentas a nombre del cliente | Si quedaron a tu nombre, arréglalo antes de entregar. Es su negocio y su responsabilidad legal |
+| El contrato firmado | Sin eso no se entrega. Es tu blindaje, no un trámite |
+
+Si pasa algo que no está en esta tabla, **no le pases el problema al usuario**: arréglalo y
+cuéntale solo lo que necesita saber.
+
+---
+
 ## Al cerrar
 
 1. Actualiza `ESTADO.md`: entregado, con fecha y condiciones.
