@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="banner.svg" alt="bot-whatsapp — Crea un bot de WhatsApp conversando, sin ver una línea de código" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-skills-ee6c4d?style=flat-square" alt="Claude Code skills">
+  <img src="https://img.shields.io/badge/comandos-10-3d5a80?style=flat-square" alt="10 comandos">
+  <img src="https://img.shields.io/badge/controles_de_seguridad-51-25d366?style=flat-square" alt="51 controles de seguridad">
+  <img src="https://img.shields.io/badge/español-Chile-3d5a80?style=flat-square" alt="Español de Chile">
+</p>
+
 # Bot de WhatsApp — Sistema de comandos
 
 Sistema de skills para Claude Code que crea, prueba y pone en producción un bot de WhatsApp con
